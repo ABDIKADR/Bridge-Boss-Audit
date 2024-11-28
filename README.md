@@ -1,4 +1,4 @@
-# Boss Bridge
+Boss Bridge
 
 ![Boss Bridge](./audit-data/boss-bridge.png)
 
